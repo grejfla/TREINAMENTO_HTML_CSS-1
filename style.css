@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+ 
+background-image:after;
+}
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+    font-family: arial;
+    font-size: 18px;
+}
